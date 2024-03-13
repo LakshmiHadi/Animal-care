@@ -25,4 +25,11 @@ The website is built using Bootstrap, ensuring a seamless and user-friendly expe
 
 Share your cat's adorable moments with the Cat Care Hub community by uploading photos to our gallery. Connect with other cat lovers and celebrate the joy of feline companionship.
 
+### 5. Community Forum
 
+Join our community forum to discuss cat-related topics, share experiences, and seek advice from other cat owners.
+
+## Technologies Used
+
+- HTML
+- CSS
