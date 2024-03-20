@@ -2,6 +2,7 @@
   {
     margin: 0;
     padding: 0;
+    background: url(assets/images/Shih-Tzu.jpeg) no-repeat center;
   }
   .container-fluid
   {
@@ -9,7 +10,6 @@
     height: 100vh;
     background: linear-gradient(to left, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%) url(bg.jpeg);
     background-size: cover;
-    background-repeat: no-repeat;
   }
   .container{
     width: 1200px;
@@ -76,7 +76,7 @@
   .content p{
     font-family: arial;
     font-weight: bold;
-    font-size: #000;
+    color: lightgrey;
     line-height: 30px;
     padding-top: 30px;
   }
